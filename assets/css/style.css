@@ -30,7 +30,7 @@ h1 {
 h1::before {
     content: ' ';
     position: absolute;
-    background-image: url('/assets/images/star.svg');
+    background-image: url('../images/star.svg');
     background-repeat: no-repeat;
     background-size: 1.5em;
     height: 1.5em;
@@ -50,7 +50,7 @@ h2 {
 h2::before {
     content: ' ';
     position: absolute;
-    background-image: url('/assets/images/location.svg');
+    background-image: url('../images/location.svg');
     background-repeat: no-repeat;
     background-size: 1.5em;
     height: 1.5em;
@@ -103,7 +103,7 @@ ul.links, .links a {
 .links li::after {
     content: ' ';
     position: absolute;
-    background-image: url('/assets/images/arrow.svg');
+    background-image: url('../images/arrow.svg');
     background-repeat: no-repeat;
     background-size: 1.25em;
     height: 1.25em;
